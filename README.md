@@ -4,6 +4,9 @@ Analysis of the 2018 Congressional Elections using deep learning, with data-sets
 This is a refactoring of code created during a group project at The George Washington University.
 
 Group Members: 
+
 Mohammad Ronosentono - github.com/mosal2000
+
 Paula Gallardo - linkedin.com/in/paula-gallardo
+
 Jocelyn Allen - github.com/JocelynAllen   
